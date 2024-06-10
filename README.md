@@ -1,2 +1,2 @@
 # Diffusion_model
-In this I attempted to create a model which can create image from text
+In this I attempted to create a diffusion model
