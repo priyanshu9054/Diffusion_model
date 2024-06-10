@@ -1,5 +1,5 @@
 # Diffusion_model
-In this I attempted to create a diffusion model, which is basically trying to recreate stable diffusion available at hugging face: stabilityai/stable-diffusion.
+In this I attempted to create a diffusion model, which is basically trying to recreate stable diffusion available at hugging face: https://huggingface.co/spaces/stabilityai/stable-diffusion.
 My whole ressearch was based on https://github.com/hkproj/pytorch-stable-diffusion.
 Video to which I refered : https://youtu.be/ZBKpAp_6TGI?si=w-3ShAKBOILChKvS.
 Further sd_2 is just same code as repo i have given above, I was just reseaarching and tried to recreate it in sd, but I was having  a few setbacks and still working on improving it so I just wanted to check if it works or not.
